@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
-main()
+void main()
 {
 	float r,c,s;
 	printf("nhap ban kinh cua duong tron:");
